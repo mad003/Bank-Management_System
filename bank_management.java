@@ -1,3 +1,8 @@
+//*|*Auther : Ghasadi Manthan J*|*
+//*|********ID : 201951065********|*
+//*|***Codeforces : manghasadi**|*
+//*|******Codechef : gmj2703******|*
+
 import java.util.Scanner;
 class root {
 
